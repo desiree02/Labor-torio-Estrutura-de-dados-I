@@ -1,2 +1,2 @@
 # Labor-torio-Estrutura-de-dados-I
-UFRRJ - Laborátorio EDI 2016.1
+UFRRJ - Laboratório EDI 2016.1
